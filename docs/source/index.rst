@@ -1,13 +1,17 @@
 Welcome to Wild Raccoons's FRC Documentation!
-===================================
+##############################################
 
-.. note::
+   .. note::
+      This project is under active development.
 
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   Electrical
+   Hardware
+   Marketing
+   Programming
+   Safety
