@@ -36,9 +36,8 @@ html_theme_options = {
     # Set the name of the project to appear in the navigation.
     'nav_title': 'Wild Raccoons’s FRC Documentation',
 
-    'theme_color': 9240ad
+    'theme_color': '9240ad'
 
-    
 }
 
 # -- Options for EPUB output
