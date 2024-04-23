@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Wild Raccoons Documentation'
+project = '8891 Wild Raccoons'
 copyright = '2024, Wild Raccoons'
-author = 'Wild Raccoons'
+author = '8891 Wild Raccoons'
 
 release = '0.1'
 version = '0.1.1'
@@ -37,6 +37,8 @@ html_theme_options = {
     'nav_title': 'Wild Raccoons’s FRC Documentation',
 
     'theme_color':'9240ad'
+
+    
 }
 
 # -- Options for EPUB output
