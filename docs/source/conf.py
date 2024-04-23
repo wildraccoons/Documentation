@@ -37,6 +37,8 @@ html_theme_options = {
     'nav_title': 'Wild Raccoons’s FRC Documentation',
 
     'theme_color':'9240ad'
+
+    
 }
 
 # -- Options for EPUB output
