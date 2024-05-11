@@ -38,7 +38,7 @@ html_theme_options = {
 
     'theme_color': '9240ad',
 
-    'color_primary': '#9240ad',
+    'color_primary': '9240ad',
 
     'color_accent': 'green'
 
