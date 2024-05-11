@@ -38,6 +38,10 @@ html_theme_options = {
 
     'theme_color': '9240ad'
 
+    'color_primary': 'purple'
+
+    'color_accent': 'green'
+
 }
 
 # -- Options for EPUB output
